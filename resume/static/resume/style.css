@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: rgb(8, 243, 8);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+section {
+    width: 40rem;
+    position: relative;
+    left: 28%;
+}
+
+p, li {
+    margin: 1rem;
+}
